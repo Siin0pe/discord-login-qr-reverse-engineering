@@ -1,10 +1,11 @@
 <!-- scope -->
 > [!WARNING]
-> **Recherche en sÃ©curitÃ©.**
+> **Recherche en sécurité.**
 >
-> Analyse du protocole d'authentification par QR code de Discord (WebSocket, crypto, remote auth), publiÃ©e Ã  des fins de comprÃ©hension et de divulgation responsable.
+> Analyse du protocole d'authentification par QR code de Discord (WebSocket, crypto, remote auth), publiée à des fins de compréhension et de divulgation responsable.
 >
-> Ne pas utiliser sur un compte qui ne t'appartient pas. Aucun contournement de sÃ©curitÃ©, aucun outil prÃªt Ã  l'emploi contre des tiers.
+> Ne pas utiliser sur un compte qui ne t'appartient pas. Aucun contournement de sécurité, aucun outil prêt à l'emploi contre des tiers.
+
 # Discord QR Code Login - Reverse Engineering 🕵️‍♂️🔒
 
 ## Description

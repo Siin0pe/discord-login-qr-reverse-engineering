@@ -1,10 +1,10 @@
 <!-- scope -->
 > [!WARNING]
-> **Recherche en sécurité.**
+> **Security research.**
 >
-> Analyse du protocole d'authentification par QR code de Discord (WebSocket, crypto, remote auth), publiée à des fins de compréhension et de divulgation responsable.
+> Analysis of Discord's QR code authentication protocol (WebSocket, crypto, remote auth), published for understanding and responsible disclosure.
 >
-> Ne pas utiliser sur un compte qui ne t'appartient pas. Aucun contournement de sécurité, aucun outil prêt à l'emploi contre des tiers.
+> Do not use on an account you do not own. No security bypass, no ready-to-use tooling against third parties.
 
 # Discord QR Code Login - Reverse Engineering 🕵️‍♂️🔒
 
